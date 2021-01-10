@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173431364812",
+    "project_id": "todolistprojectt",
+    "storage_bucket": "todolistprojectt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173431364812:android:1f6326f14186ac61bcf669",
+        "android_client_info": {
+          "package_name": "com.example.tolistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173431364812-debtvlvfsrpqf6jvt0hnt89sg9jmjf1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tolistproject",
+            "certificate_hash": "10c71cedd57068567ed0e4290d5e9a8f89560b98"
+          }
+        },
+        {
+          "client_id": "173431364812-bth49fllf0abu8fdbia14s0rv70masn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtYbVpM9njuovYxxL9SiKNFdHTF5Beag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173431364812-bth49fllf0abu8fdbia14s0rv70masn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
